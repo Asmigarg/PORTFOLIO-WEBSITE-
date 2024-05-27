@@ -7,9 +7,9 @@ Welcome to my Portfolio Website! This project showcases my work, skills, and exp
 3. Technologies Used
 4. Installation
 5. Usage
-6. Contributing
-7. License
-8. Contact
+
+## Demo
+You can view a live demo of the website https://fancy-lebkuchen-551ee8.netlify.app/
 
 ## Features
 1. Responsive Design: The website is fully responsive and works on various devices and screen sizes.
@@ -25,8 +25,5 @@ Welcome to my Portfolio Website! This project showcases my work, skills, and exp
 3. JavaScript: For interactivity and dynamic content.
 4. Font Awesome: For icons.
 5. Google Fonts: For typography.
-
-## Usage
-Open the index.html file in your preferred web browser to view the website locally.
 
 Thank you for visiting my portfolio website repository! I hope you find it useful and inspiring. Feel free to explore, use, and contribute to make it even better.
