@@ -9,8 +9,7 @@ Welcome to my Portfolio Website! This project showcases my work, skills, and exp
 5. Usage
 
 ## Demo
-You can view a live demo of the website https://fancy-lebkuchen-551ee8.netlify.app/
-
+You can view a live demo of the website (https://asmigargportfolio.netlify.app/)
 ## Features
 1. Responsive Design: The website is fully responsive and works on various devices and screen sizes.
 2. Interactive UI: Smooth scrolling, animations, and interactive elements for an engaging user experience.
